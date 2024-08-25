@@ -1,3 +1,5 @@
+We have a pizza sale data in 4 table by using sql query to find out answer of following questions
+
 1-Retrieve the total number of orders placed?
 
 2-Calculate the total revenue generated from pizza sales.
